@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>cuda共享内存</title>
+      <link href="/2023/06/16/cuda-share-mem/"/>
+      <url>/2023/06/16/cuda-share-mem/</url>
+      
+        <content type="html"><![CDATA[<h1 id="cuda共享内存"><a href="#cuda共享内存" class="headerlink" title="cuda共享内存"></a>cuda共享内存</h1><hr><p><strong>发现很好的cuda学习资料:大佬博客:<a href="https://face2ai.com/program-blog/#GPU%E7%BC%96%E7%A8%8B%EF%BC%88CUDA%EF%BC%89">https://face2ai.com/program-blog/#GPU%E7%BC%96%E7%A8%8B%EF%BC%88CUDA%EF%BC%89</a></strong><br><strong>cuda共享内存可参考:<a href="https://developer.nvidia.com/blog/efficient-matrix-transpose-cuda-cc/">https://developer.nvidia.com/blog/efficient-matrix-transpose-cuda-cc/</a></strong><br><strong>其中通过padding的方式解决bank conflict的原理可见:<a href="https://zhuanlan.zhihu.com/p/436395393">https://zhuanlan.zhihu.com/p/436395393</a></strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>mmlab学习笔记3-自定义模块</title>
       <link href="/2023/05/04/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/05/04/%E7%AC%AC%E5%9B%9B%E7%AF%87%E6%96%87%E7%AB%A0/</url>
@@ -142,9 +167,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -164,9 +189,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
