@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>windows下的pthread配置</title>
+      <link href="/2023/06/24/windows%E4%B8%8B%E7%9A%84pthread%E9%85%8D%E7%BD%AE/"/>
+      <url>/2023/06/24/windows%E4%B8%8B%E7%9A%84pthread%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<p>1.<a href="https://blog.csdn.net/weixin_44770969/article/details/129389356">https://blog.csdn.net/weixin_44770969/article/details/129389356</a><br>2.<a href="https://blog.csdn.net/ZPeng_CSDN/article/details/114108421?spm=1001.2101.3001.6650.8&amp;utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-8-114108421-blog-80536280.235%5Ev38%5Epc_relevant_sort_base2&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-8-114108421-blog-80536280.235%5Ev38%5Epc_relevant_sort_base2&amp;utm_relevant_index=9">https://blog.csdn.net/ZPeng_CSDN/article/details/114108421?spm=1001.2101.3001.6650.8&amp;utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-8-114108421-blog-80536280.235%5Ev38%5Epc_relevant_sort_base2&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-8-114108421-blog-80536280.235%5Ev38%5Epc_relevant_sort_base2&amp;utm_relevant_index=9</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分类1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>cuda共享内存</title>
       <link href="/2023/06/16/cuda-share-mem/"/>
       <url>/2023/06/16/cuda-share-mem/</url>
@@ -132,9 +157,9 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -143,9 +168,9 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -159,6 +184,28 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 小冰分类分类磁铁黑夜模式适配 *//* 一般状态 */[data-theme="dark"] .magnet_link_context {  background: #1e1e1e;  color: antiquewhite;}/* 鼠标悬浮状态 */[data-theme="dark"] .magnet_link_context:hover {  background: #3ecdf1;  color: #f2f2f2;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -179,28 +226,6 @@
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
